@@ -1,13 +1,13 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/ibm_dsx_developer_edition.AppImage",
+    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/ibm_dsx_developer_edition.AppImage",
     "version": "1.1.7",
     "platform": "linux",
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
     "size": "69.4 MB"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
+    "update": "https://github.com/sahilshah2211/DSx-Desktop/raw/master/releases/",
     "version": "1.1.7",
     "platform": "win32",
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
@@ -15,8 +15,8 @@
   },
   "darwin-x64-prod": {
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
+    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/release.json",
+    "install": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
     "version": "1.1.7",
     "size": "63.4 MB"
   },
