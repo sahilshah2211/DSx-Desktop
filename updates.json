@@ -1,6 +1,6 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/ibm_dsx_developer_edition.AppImage",
+    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/ibm_dsx_developer_edition-1.1.7.AppImage",
     "version": "1.1.7",
     "platform": "linux",
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
