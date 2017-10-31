@@ -1,23 +1,23 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/ibm-dsx-desktop.AppImage",
-    "version": "1.1.6",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/ibm_dsx_developer_edition.AppImage",
+    "version": "1.1.7",
     "platform": "linux",
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
     "size": "69.4 MB"
   },
   "win32-x64-prod": {
     "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "platform": "win32",
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
     "size": "68.6 MB"
   },
   "darwin-x64-prod": {
     "readme": "Sixth version: implemented uninstaller for individual images (can now uninstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
-    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/release.json",
-    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
-    "version": "1.1.6",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
+    "version": "1.1.7",
     "size": "63.4 MB"
   },
   "notebooks": {
@@ -73,93 +73,11 @@
       "version": "v1",
       "bytes": "GB",
       "tarName": "zeppelin.tar.gz",
-      "tarSize": "2442499633"
-    }
-  },
-  "dsx-core": {
-    "DSX Desktop": {
-      "size": "0.6",
-      "date": "09-24-2017, 08:00:00 PM",
-      "readme": "First version",
-      "name": "dsx-desktop",
-      "version": "v1",
-      "bytes": "GB",
-      "tarName": "dsx-core-ux.tar.gz",
-      "tarSize": "168086966"
+      "tarSize": "2186188943"
     }
   },
   "docker": {
     "mac_size": "118407105",
     "windows_size": "214698696"
-  },
-  "DockerImages": {
-    "notebooks": {
-      "Anaconda (Python 2.7)": {
-        "size": "4.74",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support Download as html,pdf, ipynb. Support for geopandas",
-        "name": "ibm-dsx-ana27",
-        "version": "v3",
-        "bytes": "GB",
-        "tarName": "ibm-dsx-ana27.tar.gz",
-        "tarSize": "1708488895"
-      },
-      "Anaconda (Python 3.5)": {
-        "size": "4.74",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support download as html, pdf, ipynb. Support for geopandas, brunel etc.",
-        "name": "ibm-dsx-ana35",
-        "version": "v3",
-        "bytes": "GB",
-        "tarName": "ibm-dsx-ana35.tar.gz",
-        "tarSize": "1747361175"
-      },
-      "Anaconda + Spark (Python 2.7, Scala, R)": {
-        "size": "5.7",
-        "date": "05-12-2017, 10:00:00 AM",
-        "readme": "Support many OHDSI R packages. Support download as html, pdf, ipynb.",
-        "name": "anaconda_with_spark",
-        "version": "v3",
-        "bytes": "GB",
-        "tarName": "anaconda_with_spark.tar.gz",
-        "tarSize": "3084993348"
-      }
-    },
-    "servers": {
-      "RStudio with Spark": {
-        "size": "2.6",
-        "date": "05-02-2017, 10:00:00 AM",
-        "readme": "no change",
-        "name": "rstudio-server",
-        "version": "v2",
-        "bytes": "GB",
-        "tarName": "rstudio-server.tar.gz",
-        "tarSize": "913247879"
-      }
-    },
-    "zeppelin": {
-      "Zeppelin Notebook": {
-        "size": "6.43",
-        "date": "07-13-2017, 10:00:00 AM",
-        "readme": "First version",
-        "name": "zeppelin",
-        "version": "v1",
-        "bytes": "GB",
-        "tarName": "zeppelin.tar.gz",
-        "tarSize": "2442499633"
-      }
-    },
-    "dsx-core": {
-      "DSX Desktop": {
-        "size": "0.6",
-        "date": "09-24-2017, 08:00:00 PM",
-        "readme": "First version",
-        "name": "dsx-desktop",
-        "version": "v1",
-        "bytes": "GB",
-        "tarName": "dsx-core-ux.tar.gz",
-        "tarSize": "168086966"
-      }
-    }
   }
 }
