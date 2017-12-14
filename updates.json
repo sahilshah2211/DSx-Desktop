@@ -15,9 +15,9 @@
   },
   "darwin-x64-prod": {
     "readme": "Ability to create and manage projects in DSX Developer Edition; Github integration to import and commit Projects; Support for Apache Zeppelin notebooks ",
-    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/release.json",
-    "install": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.1.7/IBM_DSX_Developer_Edition-1.1.7.dmg",
-    "version": "1.1.7",
+    "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.2.0/release.json",
+    "install": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.2.0/IBM_DSX_Desktop-1.2.0.dmg",
+    "version": "1.2.0",
     "size": "63.4 MB"
   },
   "notebooks": {
