@@ -17,7 +17,7 @@
     "readme": "Ability to create and manage projects in DSX Developer Edition; Github integration to import and commit Projects; Support for Apache Zeppelin notebooks ",
     "update": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.2.0/release.json",
     "install": "https://github.com/sahilshah2211/DSx-Desktop/releases/download/1.2.0/IBM_DSX_Desktop-1.2.0.dmg",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "size": "63.4 MB"
   },
   "notebooks": {
